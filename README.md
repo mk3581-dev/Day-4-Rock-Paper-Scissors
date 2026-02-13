@@ -93,5 +93,5 @@ Convert to a GUI version
 
 👨‍💻 Author
 Mohit
-Learning Python through 100 Days of Code by Dr. Angela Yu
+
 
