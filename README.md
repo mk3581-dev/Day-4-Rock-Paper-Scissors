@@ -92,6 +92,6 @@ Add play again option
 Convert to a GUI version
 
 👨‍💻 Author
-Mohit
+Mohit Kunwar
 
 
